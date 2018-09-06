@@ -1,7 +1,7 @@
 {
-    "name": "roumen/feed",
+    "name": "agacad/roumen-feed",
     "description": "A simple feed generator for Laravel.",
-    "homepage": "https://roumen.it/projects/laravel-feed",
+    "homepage": "https://github.com/agacad/roumen-feed",
     "keywords": ["laravel", "feed"],
     "license": "MIT",
     "authors": [
